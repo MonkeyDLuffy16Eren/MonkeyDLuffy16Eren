@@ -1,8 +1,6 @@
 # 💥 Shreyash Upadhyay
-
 ### 🚀 Machine Learning | Deep Learning | Data Science | Research Aspirant
-
-🌍 Aspiring **Master’s at EU (2027)**  
+🌍 Aspiring **Master's at EU (2027)**  
 ⚡ Focused on research, AI/ML, and data-driven innovation
 
 ---
@@ -20,25 +18,23 @@
 ---
 
 ## 📊 GitHub Stats
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyashUpadhyay&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashUpadhyay&layout=compact&theme=tokyonight&langs_count=10&hide=C)
+![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonkeyDLuffy16Eren&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyDLuffy16Eren&layout=compact&theme=tokyonight&langs_count=10&hide=C)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyashUpadhyay&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MonkeyDLuffy16Eren&theme=tokyonight)
 
 ---
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShreyashUpadhyay&theme=react-dark)
+
+![Shreyash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MonkeyDLuffy16Eren&theme=react-dark)
 
 ## 🌟 GitHub Contributions Summary
-- **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/ShreyashUpadhyay?style=for-the-badge&color=F7DF1E)
-
+- **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/MonkeyDLuffy16Eren?style=for-the-badge&color=F7DF1E)
 
 ## 🧭 Vision
-🌌 Focused on **Master’s → Researcher**  
+🌌 Focused on **Master's → Researcher**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 
@@ -46,5 +42,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyash-upadhyay-a5609a25b)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shreyash.upadhyay100@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://yourportfolio.com)
-!!Always open to research collaborations in Machine Learning and Deep Learning!!
+
+**Always open to research collaborations in Machine Learning and Deep Learning!**
 
