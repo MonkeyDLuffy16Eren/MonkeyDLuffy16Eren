@@ -18,7 +18,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonkeyDLuffy16Eren&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Shreyash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonkeyDLuffy16Eren&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyDLuffy16Eren&layout=compact&theme=tokyonight&langs_count=10&hide=C)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MonkeyDLuffy16Eren&theme=tokyonight)
