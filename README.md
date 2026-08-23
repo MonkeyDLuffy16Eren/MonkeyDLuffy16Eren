@@ -2,7 +2,7 @@
 
 ### 🚀 Machine Learning | Deep Learning | Data Science | Research Aspirant
 
-🌍 Aspiring **Master’s at TUM (2026)**  
+🌍 Aspiring **Master’s at EU (2027)**  
 ⚡ Focused on research, AI/ML, and data-driven innovation
 
 ---
